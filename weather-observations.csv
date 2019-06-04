@@ -1,0 +1,384 @@
+class,clds,day_ind,expire_time_gmt,valid_time_gmt,date,obs_name,pressure,temp,uv_desc,wdir,wdir_cardinal,wspd,wx_phrase
+observation,CLR,D,1557755400,1557748200,2019-05-13,Hamburg/Finkenwerder,1036.14,14,Moderate,300,WNW,22,Fair
+observation,CLR,D,1557751800,1557744600,2019-05-13,Hamburg/Finkenwerder,1036.14,13,Moderate,290,WNW,26,Fair
+observation,CLR,D,1557748200,1557741000,2019-05-13,Hamburg/Finkenwerder,1037.14,13,Moderate,310,NW,19,Fair
+observation,CLR,D,1557744600,1557737400,2019-05-13,Hamburg/Finkenwerder,1037.14,12,Moderate,300,WNW,20,Fair
+observation,CLR,D,1557741000,1557733800,2019-05-13,Hamburg/Finkenwerder,1037.14,10,Low,310,NW,15,Fair
+observation,CLR,D,1557737400,1557730200,2019-05-13,Hamburg/Finkenwerder,1037.14,9,Low,340,NNW,13,Fair
+observation,CLR,D,1557733800,1557726600,2019-05-13,Hamburg/Finkenwerder,1036.14,8,Low,330,NNW,15,Fair
+observation,CLR,D,1557730200,1557723000,2019-05-13,Hamburg/Finkenwerder,1036.14,6,Low,310,NW,11,Fair
+observation,CLR,D,1557726600,1557719400,2019-05-13,Hamburg/Finkenwerder,1036.14,6,Low,300,WNW,13,Fair
+observation,CLR,N,1557723000,1557715800,2019-05-13,Hamburg/Finkenwerder,1036.14,6,Low,250,WSW,7,Fair
+observation,CLR,N,1557719400,1557712200,2019-05-13,Hamburg/Finkenwerder,1035.14,3,Low,240,WSW,9,Fair
+observation,CLR,N,1557715800,1557708600,2019-05-13,Hamburg/Finkenwerder,1035.14,4,Low,230,SW,7,Fair
+observation,CLR,N,1557712200,1557705000,2019-05-12,Hamburg/Finkenwerder,1035.14,7,Low,220,SW,6,Fair
+observation,CLR,N,1557708600,1557701400,2019-05-12,Hamburg/Finkenwerder,1035.14,7,Low,260,W,7,Fair
+observation,CLR,N,1557701400,1557694200,2019-05-12,Hamburg/Finkenwerder,1034.14,8,Low,320,NW,22,Fair
+observation,CLR,N,1557697800,1557690600,2019-05-12,Hamburg/Finkenwerder,1034.14,9,Low,310,NW,24,Fair
+observation,CLR,D,1557694200,1557687000,2019-05-12,Hamburg/Finkenwerder,1033.14,10,Low,310,NW,26,Fair
+observation,CLR,D,1557690600,1557683400,2019-05-12,Hamburg/Finkenwerder,1033.14,11,Low,300,WNW,31,Fair
+observation,CLR,D,1557687000,1557679800,2019-05-12,Hamburg/Finkenwerder,1032.14,12,Low,300,WNW,31,Fair
+observation,FEW,D,1557683400,1557676200,2019-05-12,Hamburg/Finkenwerder,1032.14,12,Low,300,WNW,30,Fair
+observation,FEW,D,1557679800,1557672600,2019-05-12,Hamburg/Finkenwerder,1031.14,13,Low,300,WNW,31,Fair
+observation,FEW,D,1557676200,1557669000,2019-05-12,Hamburg/Finkenwerder,1031.14,13,Moderate,290,WNW,30,Fair
+observation,CLR,D,1557672600,1557665400,2019-05-12,Hamburg/Finkenwerder,1030.14,13,Moderate,310,NW,30,Fair
+observation,CLR,D,1557672600,1557665400,2019-05-12,Hamburg/Finkenwerder,1030.14,13,Moderate,310,NW,30,Fair
+observation,FEW,D,1557669000,1557661800,2019-05-12,Hamburg/Finkenwerder,1030.14,13,Moderate,310,NW,30,Fair
+observation,FEW,D,1557665400,1557658200,2019-05-12,Hamburg/Finkenwerder,1029.15,13,Moderate,300,WNW,28,Fair
+observation,CLR,D,1557661800,1557654600,2019-05-12,Hamburg/Finkenwerder,1029.15,12,Moderate,300,WNW,26,Fair
+observation,FEW,D,1557658200,1557651000,2019-05-12,Hamburg/Finkenwerder,1028.15,11,Moderate,320,NW,22,Fair
+observation,FEW,D,1557654600,1557647400,2019-05-12,Hamburg/Finkenwerder,1028.15,10,Low,310,NW,24,Fair
+observation,CLR,D,1557651000,1557643800,2019-05-12,Hamburg/Finkenwerder,1027.15,9,Low,330,NNW,26,Fair
+observation,CLR,D,1557647400,1557640200,2019-05-12,Hamburg/Finkenwerder,1027.15,8,Low,320,NW,19,Fair
+observation,CLR,D,1557643800,1557636600,2019-05-12,Hamburg/Finkenwerder,1026.15,7,Low,310,NW,17,Fair
+observation,CLR,D,1557640200,1557633000,2019-05-12,Hamburg/Finkenwerder,1025.15,6,Low,310,NW,15,Fair
+observation,CLR,N,1557636600,1557629400,2019-05-12,Hamburg/Finkenwerder,1024.15,6,Low,310,NW,15,Fair
+observation,CLR,N,1557633000,1557625800,2019-05-12,Hamburg/Finkenwerder,1024.15,6,Low,310,NW,13,Fair
+observation,CLR,N,1557629400,1557622200,2019-05-12,Hamburg/Finkenwerder,1023.15,6,Low,320,NW,19,Fair
+observation,CLR,N,1557625800,1557618600,2019-05-11,Hamburg/Finkenwerder,1022.15,7,Low,320,NW,22,Fair
+observation,CLR,N,1557622200,1557615000,2019-05-11,Hamburg/Finkenwerder,1022.15,7,Low,320,NW,19,Fair
+observation,CLR,N,1557618600,1557611400,2019-05-11,Hamburg/Finkenwerder,1021.15,8,Low,320,NW,17,Fair
+observation,CLR,N,1557615000,1557607800,2019-05-11,Hamburg/Finkenwerder,1020.15,8,Low,320,NW,22,Fair
+observation,CLR,N,1557611400,1557604200,2019-05-11,Hamburg/Finkenwerder,1019.15,10,Low,320,NW,22,Fair
+observation,CLR,D,1557607800,1557600600,2019-05-11,Hamburg/Finkenwerder,1018.15,11,Low,320,NW,26,Fair
+observation,FEW,D,1557604200,1557597000,2019-05-11,Hamburg/Finkenwerder,1017.15,13,Low,310,NW,26,Fair
+observation,FEW,D,1557600600,1557593400,2019-05-11,Hamburg/Finkenwerder,1016.16,14,Low,340,NNW,15,Fair
+observation,CLR,D,1557597000,1557589800,2019-05-11,Hamburg/Finkenwerder,1015.16,13,Low,350,N,19,Fair
+observation,CLR,D,1557593400,1557586200,2019-05-11,Hamburg/Finkenwerder,1014.16,15,Low,350,N,13,Fair
+observation,CLR,D,1557589800,1557582600,2019-05-11,Hamburg/Finkenwerder,1014.16,14,Moderate,330,NNW,15,Fair
+observation,CLR,D,1557586200,1557579000,2019-05-11,Hamburg/Finkenwerder,1013.16,13,Moderate,350,N,17,Fair
+observation,CLR,D,1557582600,1557575400,2019-05-11,Hamburg/Finkenwerder,1013.16,13,Moderate,350,N,13,Fair
+observation,CLR,D,1557579000,1557571800,2019-05-11,Hamburg/Finkenwerder,1013.16,12,Moderate,30,NNE,13,Fair
+observation,CLR,D,1557575400,1557568200,2019-05-11,Hamburg/Finkenwerder,1013.16,12,Moderate,20,NNE,11,Fair
+observation,CLR,D,1557571800,1557564600,2019-05-11,Hamburg/Finkenwerder,1013.16,10,Moderate,40,NE,15,Fair
+observation,CLR,D,1557568200,1557561000,2019-05-11,Hamburg/Finkenwerder,1013.16,10,Low,50,NE,15,Fair
+observation,CLR,D,1557564600,1557557400,2019-05-11,Hamburg/Finkenwerder,1012.16,8,Low,50,NE,15,Fair
+observation,FEW,D,1557561000,1557553800,2019-05-11,Hamburg/Finkenwerder,1012.16,8,Low,50,NE,9,Fair
+observation,OVC,D,1557557400,1557550200,2019-05-11,Hamburg/Finkenwerder,1012.16,6,Low,40,NE,11,Cloudy
+observation,CLR,D,1557553800,1557546600,2019-05-11,Hamburg/Finkenwerder,1012.16,5,Low,50,NE,6,Fair
+observation,BKN,N,1557550200,1557543000,2019-05-11,Hamburg/Finkenwerder,1011.16,3,Low,,VAR,2,Mostly Cloudy
+observation,SCT,N,1557546600,1557539400,2019-05-11,Hamburg/Finkenwerder,1011.16,3,Low,,CALM,0,Partly Cloudy
+observation,SCT,N,1557543000,1557535800,2019-05-11,Hamburg/Finkenwerder,1011.16,3,Low,,VAR,2,Partly Cloudy
+observation,SCT,N,1557539400,1557532200,2019-05-10,Hamburg/Finkenwerder,1011.16,3,Low,,CALM,0,Partly Cloudy
+observation,CLR,N,1557535800,1557528600,2019-05-10,Hamburg/Finkenwerder,1011.16,4,Low,,VAR,4,Fair
+observation,CLR,N,1557532200,1557525000,2019-05-10,Hamburg/Finkenwerder,1011.16,5,Low,,VAR,4,Fair
+observation,CLR,N,1557528600,1557521400,2019-05-10,Hamburg/Finkenwerder,1011.16,8,Low,300,WNW,7,Fair
+observation,CLR,N,1557525000,1557517800,2019-05-10,Hamburg/Finkenwerder,1011.16,9,Low,320,NW,7,Fair
+observation,CLR,D,1557521400,1557514200,2019-05-10,Hamburg/Finkenwerder,1010.16,9,Low,330,NNW,11,Fair
+observation,FEW,D,1557517800,1557510600,2019-05-10,Hamburg/Finkenwerder,1010.16,11,Low,320,NW,17,Fair
+observation,FEW,D,1557514200,1557507000,2019-05-10,Hamburg/Finkenwerder,1009.16,11,Low,310,NW,19,Fair
+observation,SCT,D,1557510600,1557503400,2019-05-10,Hamburg/Finkenwerder,1009.16,12,Low,290,WNW,22,Partly Cloudy
+observation,SCT,D,1557507000,1557499800,2019-05-10,Hamburg/Finkenwerder,1008.16,12,Low,300,WNW,22,Partly Cloudy
+observation,BKN,D,1557503400,1557496200,2019-05-10,Hamburg/Finkenwerder,1008.16,11,Low,290,WNW,22,Mostly Cloudy
+observation,BKN,D,1557499800,1557492600,2019-05-10,Hamburg/Finkenwerder,1007.16,11,Low,280,W,20,Mostly Cloudy
+observation,BKN,D,1557496200,1557489000,2019-05-10,Hamburg/Finkenwerder,1006.16,10,Moderate,290,WNW,17,Mostly Cloudy
+observation,OVC,D,1557492600,1557485400,2019-05-10,Hamburg/Finkenwerder,1006.16,11,Low,280,W,22,Showers in the Vicinity
+observation,OVC,D,1557489000,1557481800,2019-05-10,Hamburg/Finkenwerder,1005.16,10,Low,290,WNW,17,Light Rain Shower
+observation,OVC,D,1557485400,1557478200,2019-05-10,Hamburg/Finkenwerder,1004.17,11,Low,270,W,15,Cloudy
+observation,SCT,D,1557481800,1557474600,2019-05-10,Hamburg/Finkenwerder,1003.17,10,Low,300,WNW,7,Light Rain Shower
+observation,SCT,D,1557478200,1557471000,2019-05-10,Hamburg/Finkenwerder,1003.17,11,Low,270,W,13,Light Rain Shower
+observation,BKN,D,1557474600,1557467400,2019-05-10,Hamburg/Finkenwerder,1002.17,10,Low,220,SW,11,Mostly Cloudy
+observation,BKN,D,1557471000,1557463800,2019-05-10,Hamburg/Finkenwerder,1001.17,10,Low,220,SW,7,Light Rain
+observation,BKN,N,1557463800,1557456600,2019-05-10,Hamburg/Finkenwerder,1001.17,10,Low,240,WSW,7,Mostly Cloudy
+observation,BKN,N,1557460200,1557453000,2019-05-10,Hamburg/Finkenwerder,1000.17,10,Low,260,W,9,Mostly Cloudy
+observation,BKN,N,1557460200,1557453000,2019-05-10,Hamburg/Finkenwerder,1000.17,10,Low,260,W,9,Mostly Cloudy
+observation,OVC,N,1557456600,1557449400,2019-05-10,Hamburg/Finkenwerder,1000.17,10,Low,230,SW,4,Cloudy
+observation,OVC,N,1557453000,1557445800,2019-05-09,Hamburg/Finkenwerder,1000.17,11,Low,250,WSW,7,Cloudy
+observation,OVC,N,1557449400,1557442200,2019-05-09,Hamburg/Finkenwerder,999.17,12,Low,210,SSW,7,Cloudy
+observation,BKN,N,1557445800,1557438600,2019-05-09,Hamburg/Finkenwerder,999.17,12,Low,,VAR,4,Mostly Cloudy
+observation,OVC,N,1557442200,1557435000,2019-05-09,Hamburg/Finkenwerder,999.17,12,Low,120,ESE,6,Cloudy
+observation,CLR,N,1557438600,1557431400,2019-05-09,Hamburg/Finkenwerder,998.17,13,Low,,VAR,4,Fair
+observation,CLR,D,1557435000,1557427800,2019-05-09,Hamburg/Finkenwerder,998.17,14,Low,160,SSE,6,Fair
+observation,CLR,D,1557431400,1557424200,2019-05-09,Hamburg/Finkenwerder,997.17,16,Low,220,SW,7,Fair
+observation,CLR,D,1557427800,1557420600,2019-05-09,Hamburg/Finkenwerder,997.17,17,Low,210,SSW,7,Fair
+observation,CLR,D,1557424200,1557417000,2019-05-09,Hamburg/Finkenwerder,997.17,17,Low,240,WSW,17,Fair
+observation,CLR,D,1557420600,1557413400,2019-05-09,Hamburg/Finkenwerder,997.17,18,Low,230,SW,15,Fair
+observation,CLR,D,1557417000,1557409800,2019-05-09,Hamburg/Finkenwerder,997.17,18,Moderate,250,WSW,9,Fair
+observation,SCT,D,1557413400,1557406200,2019-05-09,Hamburg/Finkenwerder,997.17,17,Moderate,250,WSW,13,Partly Cloudy
+observation,SCT,D,1557409800,1557402600,2019-05-09,Hamburg/Finkenwerder,997.17,16,Moderate,250,WSW,9,Partly Cloudy
+observation,SCT,D,1557406200,1557399000,2019-05-09,Hamburg/Finkenwerder,997.17,15,Moderate,200,SSW,11,Partly Cloudy
+observation,SCT,D,1557402600,1557395400,2019-05-09,Hamburg/Finkenwerder,997.17,13,Moderate,190,S,13,Partly Cloudy
+observation,BKN,D,1557399000,1557391800,2019-05-09,Hamburg/Finkenwerder,996.17,12,Low,220,SW,15,Mostly Cloudy
+observation,BKN,D,1557395400,1557388200,2019-05-09,Hamburg/Finkenwerder,996.17,11,Low,220,SW,13,Mostly Cloudy
+observation,SCT,D,1557391800,1557384600,2019-05-09,Hamburg/Finkenwerder,996.17,10,Low,220,SW,11,Partly Cloudy
+observation,SCT,D,1557388200,1557381000,2019-05-09,Hamburg/Finkenwerder,995.17,10,Low,200,SSW,7,Light Rain
+observation,FEW,D,1557384600,1557377400,2019-05-09,Hamburg/Finkenwerder,995.17,9,Low,240,WSW,6,Fair
+observation,CLR,D,1557381000,1557373800,2019-05-09,Hamburg/Finkenwerder,995.17,8,Low,,VAR,4,Fair
+observation,OVC,N,1557377400,1557370200,2019-05-09,Hamburg/Finkenwerder,995.17,9,Low,,VAR,2,Cloudy
+observation,OVC,N,1557373800,1557366600,2019-05-09,Hamburg/Finkenwerder,994.17,9,Low,,VAR,2,Cloudy
+observation,OVC,N,1557370200,1557363000,2019-05-09,Hamburg/Finkenwerder,995.17,10,Low,190,S,7,Cloudy
+observation,OVC,N,1557366600,1557359400,2019-05-08,Hamburg/Finkenwerder,994.17,10,Low,190,S,7,Cloudy
+observation,OVC,N,1557363000,1557355800,2019-05-08,Hamburg/Finkenwerder,995.17,10,Low,210,SSW,7,Cloudy
+observation,OVC,N,1557359400,1557352200,2019-05-08,Hamburg/Finkenwerder,995.17,10,Low,140,SE,7,Cloudy
+observation,OVC,N,1557355800,1557348600,2019-05-08,Hamburg/Finkenwerder,995.17,10,Low,130,SE,9,Cloudy
+observation,OVC,N,1557352200,1557345000,2019-05-08,Hamburg/Finkenwerder,996.17,11,Low,,VAR,6,Cloudy
+observation,OVC,D,1557348600,1557341400,2019-05-08,Hamburg/Finkenwerder,996.17,11,Low,130,SE,9,Cloudy
+observation,OVC,D,1557345000,1557337800,2019-05-08,Hamburg/Finkenwerder,997.17,12,Low,130,SE,11,Cloudy
+observation,BKN,D,1557341400,1557334200,2019-05-08,Hamburg/Finkenwerder,997.17,12,Low,130,SE,13,Mostly Cloudy
+observation,BKN,D,1557337800,1557330600,2019-05-08,Hamburg/Finkenwerder,998.17,11,Low,120,ESE,11,Mostly Cloudy
+observation,BKN,D,1557334200,1557327000,2019-05-08,Hamburg/Finkenwerder,1000.17,11,Low,140,SE,7,Light Rain
+observation,FEW,D,1557330600,1557323400,2019-05-08,Hamburg/Finkenwerder,1000.17,12,Moderate,150,SSE,13,Light Rain
+observation,CLR,D,1557327000,1557319800,2019-05-08,Hamburg/Finkenwerder,1001.17,13,Moderate,150,SSE,17,Light Rain
+observation,CLR,D,1557323400,1557316200,2019-05-08,Hamburg/Finkenwerder,1001.17,15,Moderate,,VAR,11,Fair
+observation,CLR,D,1557319800,1557312600,2019-05-08,Hamburg/Finkenwerder,1003.17,14,Moderate,100,E,13,Fair
+observation,CLR,D,1557316200,1557309000,2019-05-08,Hamburg/Finkenwerder,1004.17,12,Moderate,120,ESE,13,Fair
+observation,CLR,D,1557312600,1557305400,2019-05-08,Hamburg/Finkenwerder,1005.16,12,Moderate,120,ESE,13,Fair
+observation,CLR,D,1557309000,1557301800,2019-05-08,Hamburg/Finkenwerder,1006.16,10,Low,110,ESE,11,Fair
+observation,CLR,D,1557305400,1557298200,2019-05-08,Hamburg/Finkenwerder,1007.16,8,Low,110,ESE,7,Fair
+observation,CLR,D,1557301800,1557294600,2019-05-08,Hamburg/Finkenwerder,1008.16,7,Low,110,ESE,7,Fair
+observation,CLR,D,1557298200,1557291000,2019-05-08,Hamburg/Finkenwerder,1008.16,5,Low,90,E,7,Fair
+observation,CLR,D,1557294600,1557287400,2019-05-08,Hamburg/Finkenwerder,1009.16,4,Low,110,ESE,6,Fair
+observation,CLR,N,1557291000,1557283800,2019-05-08,Hamburg/Finkenwerder,1009.16,5,Low,80,E,6,Fair
+observation,CLR,N,1557287400,1557280200,2019-05-08,Hamburg/Finkenwerder,1010.16,5,Low,,VAR,4,Fair
+observation,SCT,N,1557283800,1557276600,2019-05-08,Hamburg/Finkenwerder,1011.16,5,Low,,VAR,4,Partly Cloudy
+observation,BKN,N,1557280200,1557273000,2019-05-07,Hamburg/Finkenwerder,1011.16,6,Low,170,S,7,Mostly Cloudy
+observation,OVC,N,1557276600,1557269400,2019-05-07,Hamburg/Finkenwerder,1012.16,6,Low,170,S,7,Cloudy
+observation,OVC,N,1557273000,1557265800,2019-05-07,Hamburg/Finkenwerder,1012.16,6,Low,150,SSE,6,Cloudy
+observation,OVC,N,1557269400,1557262200,2019-05-07,Hamburg/Finkenwerder,1013.16,7,Low,160,SSE,7,Cloudy
+observation,BKN,N,1557265800,1557258600,2019-05-07,Hamburg/Finkenwerder,1013.16,6,Low,150,SSE,6,Mostly Cloudy
+observation,CLR,D,1557262200,1557255000,2019-05-07,Hamburg/Finkenwerder,1013.16,10,Low,150,SSE,4,Fair
+observation,CLR,D,1557258600,1557251400,2019-05-07,Hamburg/Finkenwerder,1013.16,11,Low,290,WNW,6,Fair
+observation,CLR,D,1557255000,1557247800,2019-05-07,Hamburg/Finkenwerder,1013.16,11,Low,300,WNW,9,Fair
+observation,CLR,D,1557251400,1557244200,2019-05-07,Hamburg/Finkenwerder,1014.16,11,Low,300,WNW,7,Fair
+observation,CLR,D,1557247800,1557240600,2019-05-07,Hamburg/Finkenwerder,1014.16,10,Low,300,WNW,11,Fair
+observation,BKN,D,1557244200,1557237000,2019-05-07,Hamburg/Finkenwerder,1015.16,11,Low,310,NW,20,Showers in the Vicinity
+observation,FEW,D,1557240600,1557233400,2019-05-07,Hamburg/Finkenwerder,1015.16,12,Moderate,230,SW,17,Fair
+observation,CLR,D,1557237000,1557229800,2019-05-07,Hamburg/Finkenwerder,1015.16,12,Moderate,290,WNW,20,Fair
+observation,SCT,D,1557233400,1557226200,2019-05-07,Hamburg/Finkenwerder,1016.16,11,Moderate,250,WSW,17,Partly Cloudy
+observation,SCT,D,1557229800,1557222600,2019-05-07,Hamburg/Finkenwerder,1016.16,10,Moderate,230,SW,17,Partly Cloudy
+observation,SCT,D,1557226200,1557219000,2019-05-07,Hamburg/Finkenwerder,1016.16,9,Low,270,W,17,Partly Cloudy
+observation,SCT,D,1557222600,1557215400,2019-05-07,Hamburg/Finkenwerder,1016.16,8,Low,270,W,17,Partly Cloudy
+observation,CLR,D,1557219000,1557211800,2019-05-07,Hamburg/Finkenwerder,1017.15,7,Low,250,WSW,13,Fair
+observation,FEW,D,1557215400,1557208200,2019-05-07,Hamburg/Finkenwerder,1016.16,4,Low,240,WSW,6,Fair
+observation,FEW,D,1557211800,1557204600,2019-05-07,Hamburg/Finkenwerder,1016.16,2,Low,230,SW,6,Fair
+observation,FEW,D,1557208200,1557201000,2019-05-07,Hamburg/Finkenwerder,1016.16,2,Low,220,SW,6,Fair
+observation,FEW,N,1557204600,1557197400,2019-05-07,Hamburg/Finkenwerder,1016.16,2,Low,250,WSW,4,Fair
+observation,FEW,N,1557201000,1557193800,2019-05-07,Hamburg/Finkenwerder,1016.16,1,Low,,VAR,4,Fair
+observation,FEW,N,1557197400,1557190200,2019-05-07,Hamburg/Finkenwerder,1016.16,2,Low,,VAR,4,Fair
+observation,CLR,N,1557190200,1557183000,2019-05-06,Hamburg/Finkenwerder,1016.16,3,Low,260,W,7,Fair
+observation,FEW,N,1557186600,1557179400,2019-05-06,Hamburg/Finkenwerder,1016.16,4,Low,250,WSW,7,Fair
+observation,FEW,N,1557186600,1557179400,2019-05-06,Hamburg/Finkenwerder,1016.16,4,Low,250,WSW,7,Fair
+observation,BKN,N,1557183000,1557175800,2019-05-06,Hamburg/Finkenwerder,1016.16,6,Low,260,W,11,Mostly Cloudy
+observation,SCT,N,1557179400,1557172200,2019-05-06,Hamburg/Finkenwerder,1016.16,6,Low,240,WSW,11,Partly Cloudy
+observation,OVC,D,1557175800,1557168600,2019-05-06,Hamburg/Finkenwerder,1016.16,7,Low,240,WSW,15,Cloudy
+observation,OVC,D,1557172200,1557165000,2019-05-06,Hamburg/Finkenwerder,1015.16,7,Low,250,WSW,15,Cloudy
+observation,BKN,D,1557168600,1557161400,2019-05-06,Hamburg/Finkenwerder,1015.16,8,Low,250,WSW,17,Mostly Cloudy
+observation,BKN,D,1557165000,1557157800,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Low,290,WNW,22,Light Rain Shower
+observation,BKN,D,1557161400,1557154200,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Low,300,WNW,26,Mostly Cloudy
+observation,BKN,D,1557157800,1557150600,2019-05-06,Hamburg/Finkenwerder,1015.16,10,Low,290,WNW,30,Mostly Cloudy
+observation,BKN,D,1557154200,1557147000,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Low,250,WSW,24,Light Rain Shower
+observation,BKN,D,1557150600,1557143400,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Moderate,260,W,22,Light Rain Shower
+observation,BKN,D,1557147000,1557139800,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Moderate,270,W,26,Mostly Cloudy
+observation,BKN,D,1557143400,1557136200,2019-05-06,Hamburg/Finkenwerder,1015.16,9,Low,260,W,22,Showers in the Vicinity
+observation,SCT,D,1557139800,1557132600,2019-05-06,Hamburg/Finkenwerder,1015.16,8,Low,260,W,26,Partly Cloudy
+observation,BKN,D,1557136200,1557129000,2019-05-06,Hamburg/Finkenwerder,1015.16,8,Low,240,WSW,26,Mostly Cloudy
+observation,BKN,D,1557132600,1557125400,2019-05-06,Hamburg/Finkenwerder,1015.16,7,Low,260,W,22,Light Rain
+observation,FEW,D,1557129000,1557121800,2019-05-06,Hamburg/Finkenwerder,1015.16,6,Low,240,WSW,24,Fair
+observation,CLR,D,1557125400,1557118200,2019-05-06,Hamburg/Finkenwerder,1015.16,4,Low,240,WSW,17,Fair
+observation,FEW,D,1557121800,1557114600,2019-05-06,Hamburg/Finkenwerder,1015.16,3,Low,220,SW,15,Fair
+observation,CLR,N,1557118200,1557111000,2019-05-06,Hamburg/Finkenwerder,1015.16,2,Low,210,SSW,13,Fair
+observation,CLR,N,1557114600,1557107400,2019-05-06,Hamburg/Finkenwerder,1015.16,2,Low,210,SSW,11,Fair
+observation,FEW,N,1557111000,1557103800,2019-05-06,Hamburg/Finkenwerder,1015.16,4,Low,230,SW,11,Fair
+observation,BKN,N,1557107400,1557100200,2019-05-05,Hamburg/Finkenwerder,1016.16,4,Low,250,WSW,13,Mostly Cloudy
+observation,FEW,N,1557103800,1557096600,2019-05-05,Hamburg/Finkenwerder,1016.16,4,Low,240,WSW,9,Fair
+observation,SCT,N,1557100200,1557093000,2019-05-05,Hamburg/Finkenwerder,1016.16,5,Low,220,SW,9,Partly Cloudy
+observation,OVC,N,1557096600,1557089400,2019-05-05,Hamburg/Finkenwerder,1016.16,7,Low,260,W,13,Cloudy
+observation,FEW,N,1557093000,1557085800,2019-05-05,Hamburg/Finkenwerder,1017.15,7,Low,280,W,17,Fair
+observation,SCT,D,1557089400,1557082200,2019-05-05,Hamburg/Finkenwerder,1016.16,8,Low,290,WNW,22,Partly Cloudy
+observation,BKN,D,1557085800,1557078600,2019-05-05,Hamburg/Finkenwerder,1016.16,8,Low,310,NW,28,Mostly Cloudy
+observation,SCT,D,1557082200,1557075000,2019-05-05,Hamburg/Finkenwerder,1016.16,10,Low,290,WNW,28,Partly Cloudy
+observation,FEW,D,1557078600,1557071400,2019-05-05,Hamburg/Finkenwerder,1016.16,10,Low,290,WNW,30,Fair
+observation,SCT,D,1557075000,1557067800,2019-05-05,Hamburg/Finkenwerder,1016.16,11,Low,290,WNW,28,Partly Cloudy
+observation,BKN,D,1557071400,1557064200,2019-05-05,Hamburg/Finkenwerder,1016.16,11,Low,290,WNW,31,Mostly Cloudy
+observation,BKN,D,1557067800,1557060600,2019-05-05,Hamburg/Finkenwerder,1016.16,10,Low,290,WNW,30,Mostly Cloudy
+observation,BKN,D,1557064200,1557057000,2019-05-05,Hamburg/Finkenwerder,1015.16,11,Moderate,290,WNW,30,Mostly Cloudy
+observation,BKN,D,1557060600,1557053400,2019-05-05,Hamburg/Finkenwerder,1016.16,9,Moderate,360,N,9,Mostly Cloudy
+observation,FEW,D,1557057000,1557049800,2019-05-05,Hamburg/Finkenwerder,1015.16,9,Moderate,280,W,15,Fair
+observation,BKN,D,1557053400,1557046200,2019-05-05,Hamburg/Finkenwerder,1015.16,8,Low,280,W,19,Mostly Cloudy
+observation,FEW,D,1557049800,1557042600,2019-05-05,Hamburg/Finkenwerder,1015.16,8,Low,250,WSW,9,Fair
+observation,CLR,D,1557046200,1557039000,2019-05-05,Hamburg/Finkenwerder,1015.16,5,Low,250,WSW,7,Fair
+observation,CLR,D,1557042600,1557035400,2019-05-05,Hamburg/Finkenwerder,1015.16,2,Low,220,SW,7,Fair
+observation,CLR,D,1557039000,1557031800,2019-05-05,Hamburg/Finkenwerder,1014.16,0,Low,210,SSW,9,Fair
+observation,CLR,D,1557035400,1557028200,2019-05-05,Hamburg/Finkenwerder,1013.16,-1,Low,210,SSW,7,Fair
+observation,CLR,N,1557031800,1557024600,2019-05-05,Hamburg/Finkenwerder,1013.16,0,Low,220,SW,7,Fair
+observation,CLR,N,1557028200,1557021000,2019-05-05,Hamburg/Finkenwerder,1013.16,0,Low,220,SW,7,Fair
+observation,CLR,N,1557024600,1557017400,2019-05-05,Hamburg/Finkenwerder,1012.16,0,Low,200,SSW,6,Fair
+observation,CLR,N,1557021000,1557013800,2019-05-04,Hamburg/Finkenwerder,1012.16,1,Low,220,SW,6,Fair
+observation,CLR,N,1557017400,1557010200,2019-05-04,Hamburg/Finkenwerder,1012.16,1,Low,230,SW,7,Fair
+observation,CLR,N,1557013800,1557006600,2019-05-04,Hamburg/Finkenwerder,1011.16,3,Low,250,WSW,9,Fair
+observation,CLR,N,1557010200,1557003000,2019-05-04,Hamburg/Finkenwerder,1011.16,2,Low,220,SW,7,Fair
+observation,FEW,D,1557003000,1556995800,2019-05-04,Hamburg/Finkenwerder,1010.16,5,Low,260,W,13,Fair
+observation,FEW,D,1556999400,1556992200,2019-05-04,Hamburg/Finkenwerder,1009.16,8,Low,290,WNW,13,Fair
+observation,OVC,D,1556995800,1556988600,2019-05-04,Hamburg/Finkenwerder,1009.16,7,Low,310,NW,19,Cloudy
+observation,OVC,D,1556995800,1556988600,2019-05-04,Hamburg/Finkenwerder,1009.16,7,Low,310,NW,19,Cloudy
+observation,FEW,D,1556992200,1556985000,2019-05-04,Hamburg/Finkenwerder,1008.16,8,Low,340,NNW,20,Showers in the Vicinity
+observation,SCT,D,1556988600,1556981400,2019-05-04,Hamburg/Finkenwerder,1007.16,9,Low,360,N,22,Partly Cloudy
+observation,BKN,D,1556985000,1556977800,2019-05-04,Hamburg/Finkenwerder,1006.16,8,Low,20,NNE,28,Showers in the Vicinity
+observation,FEW,D,1556981400,1556974200,2019-05-04,Hamburg/Finkenwerder,1005.16,10,Moderate,360,N,19,Fair
+observation,BKN,D,1556977800,1556970600,2019-05-04,Hamburg/Finkenwerder,1005.16,8,Moderate,230,SW,6,Showers in the Vicinity
+observation,SCT,D,1556974200,1556967000,2019-05-04,Hamburg/Finkenwerder,1004.17,9,Moderate,290,WNW,9,Showers in the Vicinity
+observation,SCT,D,1556970600,1556963400,2019-05-04,Hamburg/Finkenwerder,1004.17,7,Moderate,340,NNW,15,Showers in the Vicinity
+observation,BKN,D,1556967000,1556959800,2019-05-04,Hamburg/Finkenwerder,1004.17,6,Low,280,W,20,Showers in the Vicinity
+observation,SCT,D,1556963400,1556956200,2019-05-04,Hamburg/Finkenwerder,1004.17,6,Low,250,WSW,17,Partly Cloudy
+observation,BKN,D,1556959800,1556952600,2019-05-04,Hamburg/Finkenwerder,1004.17,6,Low,270,W,22,Light Rain Shower
+observation,SCT,D,1556956200,1556949000,2019-05-04,Hamburg/Finkenwerder,1003.17,4,Low,260,W,19,Partly Cloudy
+observation,SCT,D,1556952600,1556945400,2019-05-04,Hamburg/Finkenwerder,1003.17,3,Low,250,WSW,15,Partly Cloudy
+observation,FEW,D,1556949000,1556941800,2019-05-04,Hamburg/Finkenwerder,1003.17,3,Low,240,WSW,15,Fair
+observation,BKN,N,1556945400,1556938200,2019-05-04,Hamburg/Finkenwerder,1004.17,3,Low,290,WNW,15,Mostly Cloudy
+observation,BKN,N,1556941800,1556934600,2019-05-04,Hamburg/Finkenwerder,1004.17,4,Low,250,WSW,22,Mostly Cloudy
+observation,FEW,N,1556938200,1556931000,2019-05-04,Hamburg/Finkenwerder,1004.17,3,Low,240,WSW,22,Fair
+observation,BKN,N,1556934600,1556927400,2019-05-03,Hamburg/Finkenwerder,1005.16,3,Low,250,WSW,19,Mostly Cloudy
+observation,SCT,N,1556931000,1556923800,2019-05-03,Hamburg/Finkenwerder,1005.16,3,Low,240,WSW,20,Partly Cloudy
+observation,FEW,N,1556927400,1556920200,2019-05-03,Hamburg/Finkenwerder,1005.16,3,Low,250,WSW,11,Fair
+observation,BKN,N,1556923800,1556916600,2019-05-03,Hamburg/Finkenwerder,1006.16,4,Low,280,W,24,Mostly Cloudy
+observation,OVC,N,1556920200,1556913000,2019-05-03,Hamburg/Finkenwerder,1006.16,5,Low,260,W,19,Cloudy
+observation,FEW,D,1556916600,1556909400,2019-05-03,Hamburg/Finkenwerder,1006.16,6,Low,270,W,24,Showers in the Vicinity
+observation,SCT,D,1556913000,1556905800,2019-05-03,Hamburg/Finkenwerder,1006.16,7,Low,300,WNW,24,Light Rain Shower
+observation,FEW,D,1556909400,1556902200,2019-05-03,Hamburg/Finkenwerder,1006.16,9,Low,280,W,28,Showers in the Vicinity
+observation,FEW,D,1556905800,1556898600,2019-05-03,Hamburg/Finkenwerder,1006.16,9,Low,300,WNW,28,Fair
+observation,FEW,D,1556902200,1556895000,2019-05-03,Hamburg/Finkenwerder,1006.16,9,Low,290,WNW,26,Fair
+observation,FEW,D,1556896800,1556889600,2019-05-03,Hamburg/Finkenwerder,1007.16,9,Moderate,290,WNW,26,Light Rain Shower
+observation,FEW,D,1556895000,1556887800,2019-05-03,Hamburg/Finkenwerder,1008.16,9,Moderate,300,WNW,26,Fair
+observation,SCT,D,1556891400,1556884200,2019-05-03,Hamburg/Finkenwerder,1008.16,9,Moderate,290,WNW,31,Light Rain Shower
+observation,FEW,D,1556887800,1556880600,2019-05-03,Hamburg/Finkenwerder,1008.16,9,Moderate,290,WNW,30,Fair
+observation,SCT,D,1556884200,1556877000,2019-05-03,Hamburg/Finkenwerder,1008.16,8,Moderate,280,W,20,Showers in the Vicinity
+observation,SCT,D,1556880600,1556873400,2019-05-03,Hamburg/Finkenwerder,1008.16,7,Low,300,WNW,24,Showers in the Vicinity
+observation,BKN,D,1556877000,1556869800,2019-05-03,Hamburg/Finkenwerder,1007.16,8,Low,280,W,22,Light Rain Shower
+observation,SCT,D,1556873400,1556866200,2019-05-03,Hamburg/Finkenwerder,1008.16,7,Low,270,W,20,Partly Cloudy
+observation,FEW,D,1556869800,1556862600,2019-05-03,Hamburg/Finkenwerder,1007.16,6,Low,270,W,22,Fair
+observation,FEW,D,1556866200,1556859000,2019-05-03,Hamburg/Finkenwerder,1007.16,4,Low,250,WSW,13,Fair
+observation,FEW,D,1556862600,1556855400,2019-05-03,Hamburg/Finkenwerder,1006.16,4,Low,250,WSW,13,Fair
+observation,BKN,N,1556859000,1556851800,2019-05-03,Hamburg/Finkenwerder,1006.16,5,Low,270,W,20,Mostly Cloudy
+observation,BKN,N,1556855400,1556848200,2019-05-03,Hamburg/Finkenwerder,1006.16,5,Low,270,W,20,Mostly Cloudy
+observation,BKN,N,1556851800,1556844600,2019-05-03,Hamburg/Finkenwerder,1006.16,5,Low,260,W,15,Mostly Cloudy
+observation,BKN,N,1556848200,1556841000,2019-05-02,Hamburg/Finkenwerder,1006.16,6,Low,290,WNW,22,Mostly Cloudy
+observation,FEW,N,1556844600,1556837400,2019-05-02,Hamburg/Finkenwerder,1005.16,7,Low,290,WNW,19,Fair
+observation,SCT,N,1556841000,1556833800,2019-05-02,Hamburg/Finkenwerder,1005.16,7,Low,300,WNW,22,Partly Cloudy
+observation,OVC,N,1556837400,1556830200,2019-05-02,Hamburg/Finkenwerder,1005.16,8,Low,300,WNW,24,Cloudy
+observation,SCT,N,1556833800,1556826600,2019-05-02,Hamburg/Finkenwerder,1004.17,8,Low,290,WNW,24,Partly Cloudy
+observation,BKN,D,1556830200,1556823000,2019-05-02,Hamburg/Finkenwerder,1004.17,9,Low,290,WNW,28,Light Rain Shower
+observation,BKN,D,1556826600,1556819400,2019-05-02,Hamburg/Finkenwerder,1004.17,9,Low,290,WNW,22,Mostly Cloudy
+observation,BKN,D,1556823000,1556815800,2019-05-02,Hamburg/Finkenwerder,1003.17,9,Low,320,NW,30,Mostly Cloudy
+observation,BKN,D,1556819400,1556812200,2019-05-02,Hamburg/Finkenwerder,1002.17,13,Low,290,WNW,33,Mostly Cloudy / Windy
+observation,BKN,D,1556815800,1556808600,2019-05-02,Hamburg/Finkenwerder,1003.17,12,Low,280,W,33,Light Rain Shower / Windy
+observation,BKN,D,1556812200,1556805000,2019-05-02,Hamburg/Finkenwerder,1003.17,12,Low,280,W,33,Mostly Cloudy / Windy
+observation,BKN,D,1556808600,1556801400,2019-05-02,Hamburg/Finkenwerder,1004.17,12,Low,260,W,31,Mostly Cloudy
+observation,BKN,D,1556805000,1556797800,2019-05-02,Hamburg/Finkenwerder,1004.17,11,Moderate,280,W,30,Mostly Cloudy
+observation,BKN,D,1556801400,1556794200,2019-05-02,Hamburg/Finkenwerder,1005.16,10,Moderate,270,W,24,Mostly Cloudy
+observation,OVC,D,1556797800,1556790600,2019-05-02,Hamburg/Finkenwerder,1005.16,9,Low,260,W,22,Light Drizzle
+observation,BKN,D,1556794200,1556787000,2019-05-02,Hamburg/Finkenwerder,1005.16,9,Low,270,W,22,Light Drizzle
+observation,BKN,D,1556790600,1556783400,2019-05-02,Hamburg/Finkenwerder,1005.16,9,Low,270,W,31,Light Drizzle
+observation,BKN,D,1556787000,1556779800,2019-05-02,Hamburg/Finkenwerder,1005.16,9,Low,280,W,31,Mostly Cloudy
+observation,BKN,D,1556783400,1556776200,2019-05-02,Hamburg/Finkenwerder,1006.16,9,Low,280,W,30,Mostly Cloudy
+observation,BKN,D,1556779800,1556772600,2019-05-02,Hamburg/Finkenwerder,1006.16,9,Low,260,W,20,Mostly Cloudy
+observation,BKN,D,1556776200,1556769000,2019-05-02,Hamburg/Finkenwerder,1006.16,8,Low,250,WSW,20,Mostly Cloudy
+observation,OVC,N,1556772600,1556765400,2019-05-02,Hamburg/Finkenwerder,1006.16,8,Low,250,WSW,22,Cloudy
+observation,OVC,N,1556769000,1556761800,2019-05-02,Hamburg/Finkenwerder,1007.16,7,Low,250,WSW,19,Cloudy
+observation,OVC,N,1556765400,1556758200,2019-05-02,Hamburg/Finkenwerder,1008.16,8,Low,260,W,22,Cloudy
+observation,OVC,N,1556761800,1556754600,2019-05-01,Hamburg/Finkenwerder,1008.16,8,Low,270,W,30,Cloudy
+observation,OVC,N,1556758200,1556751000,2019-05-01,Hamburg/Finkenwerder,1009.16,8,Low,290,WNW,22,Cloudy
+observation,OVC,N,1556754600,1556747400,2019-05-01,Hamburg/Finkenwerder,1010.16,8,Low,290,WNW,22,Cloudy
+observation,OVC,N,1556751000,1556743800,2019-05-01,Hamburg/Finkenwerder,1010.16,8,Low,270,W,30,Cloudy
+observation,OVC,N,1556747400,1556740200,2019-05-01,Hamburg/Finkenwerder,1011.16,9,Low,270,W,30,Cloudy
+observation,OVC,N,1556743800,1556736600,2019-05-01,Hamburg/Finkenwerder,1011.16,9,Low,290,WNW,26,Cloudy
+observation,OVC,D,1556740200,1556733000,2019-05-01,Hamburg/Finkenwerder,1011.16,9,Low,290,WNW,26,Cloudy
+observation,OVC,D,1556736600,1556729400,2019-05-01,Hamburg/Finkenwerder,1012.16,10,Low,290,WNW,22,Cloudy
+observation,OVC,D,1556733000,1556725800,2019-05-01,Hamburg/Finkenwerder,1012.16,10,Low,280,W,26,Cloudy
+observation,OVC,D,1556729400,1556722200,2019-05-01,Hamburg/Finkenwerder,1012.16,11,Low,280,W,26,Cloudy
+observation,OVC,D,1556725800,1556718600,2019-05-01,Hamburg/Finkenwerder,1013.16,11,Low,280,W,28,Cloudy
+observation,OVC,D,1556722200,1556715000,2019-05-01,Hamburg/Finkenwerder,1014.16,10,Low,290,WNW,26,Cloudy
+observation,OVC,D,1556718600,1556711400,2019-05-01,Hamburg/Finkenwerder,1014.16,10,Low,280,W,30,Cloudy
+observation,OVC,D,1556715000,1556707800,2019-05-01,Hamburg/Finkenwerder,1014.16,10,Low,280,W,26,Cloudy
+observation,OVC,D,1556711400,1556704200,2019-05-01,Hamburg/Finkenwerder,1014.16,9,Low,270,W,26,Cloudy
+observation,OVC,D,1556707800,1556700600,2019-05-01,Hamburg/Finkenwerder,1014.16,9,Low,290,WNW,26,Cloudy
+observation,OVC,D,1556704200,1556697000,2019-05-01,Hamburg/Finkenwerder,1014.16,9,Low,290,WNW,24,Cloudy
+observation,OVC,D,1556700600,1556693400,2019-05-01,Hamburg/Finkenwerder,1014.16,9,Low,280,W,26,Cloudy
+observation,OVC,D,1556697000,1556689800,2019-05-01,Hamburg/Finkenwerder,1015.16,9,Low,270,W,26,Cloudy
+observation,OVC,D,1556693400,1556686200,2019-05-01,Hamburg/Finkenwerder,1015.16,9,Low,280,W,24,Cloudy
+observation,OVC,D,1556689800,1556682600,2019-05-01,Hamburg/Finkenwerder,1015.16,9,Low,280,W,20,Cloudy
+observation,OVC,N,1556686200,1556679000,2019-05-01,Hamburg/Finkenwerder,1015.16,9,Low,290,WNW,20,Cloudy
+observation,OVC,N,1556682600,1556675400,2019-05-01,Hamburg/Finkenwerder,1016.16,9,Low,290,WNW,24,Cloudy
+observation,OVC,N,1556679000,1556671800,2019-05-01,Hamburg/Finkenwerder,1016.16,9,Low,290,WNW,22,Cloudy
+observation,OVC,N,1556675400,1556668200,2019-04-30,Hamburg/Finkenwerder,1017.15,9,Low,310,NW,24,Cloudy
+observation,OVC,N,1556671800,1556664600,2019-04-30,Hamburg/Finkenwerder,1017.15,9,Low,310,NW,20,Cloudy
+observation,OVC,N,1556668200,1556661000,2019-04-30,Hamburg/Finkenwerder,1017.15,9,Low,310,NW,19,Cloudy
+observation,BKN,N,1556664600,1556657400,2019-04-30,Hamburg/Finkenwerder,1018.15,9,Low,300,WNW,24,Mostly Cloudy
+observation,BKN,N,1556661000,1556653800,2019-04-30,Hamburg/Finkenwerder,1018.15,10,Low,290,WNW,20,Mostly Cloudy
+observation,CLR,N,1556657400,1556650200,2019-04-30,Hamburg/Finkenwerder,1018.15,11,Low,290,WNW,19,Fair
+observation,CLR,D,1556653800,1556646600,2019-04-30,Hamburg/Finkenwerder,1018.15,12,Low,290,WNW,20,Fair
+observation,CLR,D,1556650200,1556643000,2019-04-30,Hamburg/Finkenwerder,1018.15,14,Low,290,WNW,19,Fair
+observation,CLR,D,1556644800,1556637600,2019-04-30,Hamburg/Finkenwerder,1018.15,14,Low,300,WNW,19,Fair
+observation,CLR,D,1556643000,1556635800,2019-04-30,Hamburg/Finkenwerder,1018.15,15,Low,290,WNW,20,Fair
+observation,CLR,D,1556639400,1556632200,2019-04-30,Hamburg/Finkenwerder,1018.15,16,Moderate,300,WNW,20,Fair
+observation,CLR,D,1556635800,1556628600,2019-04-30,Hamburg/Finkenwerder,1019.15,17,Moderate,290,WNW,22,Fair
+observation,CLR,D,1556632200,1556625000,2019-04-30,Hamburg/Finkenwerder,1019.15,16,Moderate,290,WNW,20,Fair
+observation,CLR,D,1556628600,1556621400,2019-04-30,Hamburg/Finkenwerder,1019.15,15,Moderate,270,W,22,Fair
+observation,CLR,D,1556625000,1556617800,2019-04-30,Hamburg/Finkenwerder,1020.15,13,Moderate,270,W,22,Fair
+observation,CLR,D,1556621400,1556614200,2019-04-30,Hamburg/Finkenwerder,1020.15,12,Moderate,280,W,20,Fair
+observation,SCT,D,1556617800,1556610600,2019-04-30,Hamburg/Finkenwerder,1020.15,10,Low,280,W,17,Partly Cloudy
+observation,BKN,D,1556614200,1556607000,2019-04-30,Hamburg/Finkenwerder,1020.15,8,Low,280,W,15,Mist
+observation,OVC,D,1556610600,1556603400,2019-04-30,Hamburg/Finkenwerder,1020.15,7,Low,280,W,11,Fog
+observation,OVC,D,1556607000,1556599800,2019-04-30,Hamburg/Finkenwerder,1020.15,6,Low,230,SW,7,Fog
+observation,OVC,D,1556603400,1556596200,2019-04-30,Hamburg/Finkenwerder,1020.15,4,Low,250,WSW,13,Fog
+observation,OVC,N,1556599800,1556592600,2019-04-30,Hamburg/Finkenwerder,1020.15,5,Low,210,SSW,7,Cloudy
+observation,SCT,N,1556596200,1556589000,2019-04-30,Hamburg/Finkenwerder,1020.15,4,Low,230,SW,7,Partly Cloudy
+observation,CLR,N,1556592600,1556585400,2019-04-30,Hamburg/Finkenwerder,1021.15,6,Low,260,W,6,Fair
+observation,CLR,N,1556589000,1556581800,2019-04-29,Hamburg/Finkenwerder,1021.15,4,Low,260,W,6,Fair
+observation,CLR,N,1556585400,1556578200,2019-04-29,Hamburg/Finkenwerder,1021.15,5,Low,170,S,6,Fair
+observation,CLR,N,1556581800,1556574600,2019-04-29,Hamburg/Finkenwerder,1021.15,9,Low,30,NNE,6,Fair
+observation,CLR,N,1556578200,1556571000,2019-04-29,Hamburg/Finkenwerder,1021.15,10,Low,20,NNE,11,Fair
+observation,CLR,N,1556574600,1556567400,2019-04-29,Hamburg/Finkenwerder,1021.15,12,Low,20,NNE,13,Fair
+observation,CLR,N,1556571000,1556563800,2019-04-29,Hamburg/Finkenwerder,1020.15,13,Low,50,NE,13,Fair
+observation,CLR,D,1556567400,1556560200,2019-04-29,Hamburg/Finkenwerder,1020.15,14,Low,40,NE,17,Fair
+observation,FEW,D,1556563800,1556556600,2019-04-29,Hamburg/Finkenwerder,1019.15,16,Low,50,NE,22,Fair
+observation,FEW,D,1556560200,1556553000,2019-04-29,Hamburg/Finkenwerder,1019.15,16,Low,20,NNE,15,Fair
+observation,FEW,D,1556556600,1556549400,2019-04-29,Hamburg/Finkenwerder,1019.15,17,Low,360,N,19,Fair
+observation,BKN,D,1556553000,1556545800,2019-04-29,Hamburg/Finkenwerder,1019.15,16,Low,340,NNW,13,Mostly Cloudy
+observation,BKN,D,1556549400,1556542200,2019-04-29,Hamburg/Finkenwerder,1020.15,13,Low,300,WNW,17,Mostly Cloudy
+observation,BKN,D,1556545800,1556538600,2019-04-29,Hamburg/Finkenwerder,1021.15,11,Low,320,NW,13,Mostly Cloudy
+observation,OVC,D,1556542200,1556535000,2019-04-29,Hamburg/Finkenwerder,1021.15,10,Low,320,NW,17,Light Drizzle
+observation,OVC,D,1556538600,1556531400,2019-04-29,Hamburg/Finkenwerder,1021.15,10,Low,320,NW,20,Light Drizzle
+observation,BKN,D,1556535000,1556527800,2019-04-29,Hamburg/Finkenwerder,1021.15,9,Low,310,NW,20,Light Drizzle
+observation,BKN,D,1556531400,1556524200,2019-04-29,Hamburg/Finkenwerder,1021.15,9,Low,310,NW,22,Light Drizzle
+observation,BKN,D,1556527800,1556520600,2019-04-29,Hamburg/Finkenwerder,1021.15,9,Low,310,NW,24,Light Rain
+observation,OVC,D,1556524200,1556517000,2019-04-29,Hamburg/Finkenwerder,1021.15,9,Low,310,NW,17,Light Drizzle
+observation,OVC,D,1556518800,1556511600,2019-04-29,Hamburg/Finkenwerder,1021.15,8,Low,300,WNW,17,Cloudy
+observation,BKN,D,1556517000,1556509800,2019-04-29,Hamburg/Finkenwerder,1021.15,8,Low,280,W,9,Mostly Cloudy
+observation,OVC,N,1556513400,1556506200,2019-04-29,Hamburg/Finkenwerder,1021.15,7,Low,260,W,7,Cloudy
+observation,OVC,N,1556509800,1556502600,2019-04-29,Hamburg/Finkenwerder,1021.15,6,Low,250,WSW,7,Cloudy
+observation,OVC,N,1556506200,1556499000,2019-04-29,Hamburg/Finkenwerder,1021.15,6,Low,240,WSW,6,Cloudy
+observation,OVC,N,1556502600,1556495400,2019-04-28,Hamburg/Finkenwerder,1021.15,8,Low,290,WNW,13,Cloudy
+observation,BKN,N,1556499000,1556491800,2019-04-28,Hamburg/Finkenwerder,1021.15,8,Low,310,NW,9,Mostly Cloudy
+observation,BKN,N,1556495400,1556488200,2019-04-28,Hamburg/Finkenwerder,1021.15,9,Low,320,NW,9,Mostly Cloudy
+observation,BKN,N,1556491800,1556484600,2019-04-28,Hamburg/Finkenwerder,1020.15,9,Low,320,NW,7,Mostly Cloudy
+observation,BKN,N,1556488200,1556481000,2019-04-28,Hamburg/Finkenwerder,1020.15,10,Low,310,NW,7,Mostly Cloudy
+observation,BKN,N,1556484600,1556477400,2019-04-28,Hamburg/Finkenwerder,1019.15,10,Low,320,NW,9,Mostly Cloudy
+observation,CLR,D,1556481000,1556473800,2019-04-28,Hamburg/Finkenwerder,1019.15,12,Low,340,NNW,13,Fair
+observation,FEW,D,1556477400,1556470200,2019-04-28,Hamburg/Finkenwerder,1018.15,12,Low,300,WNW,11,Fair
+observation,FEW,D,1556473800,1556466600,2019-04-28,Hamburg/Finkenwerder,1018.15,13,Low,310,NW,9,Fair
+observation,SCT,D,1556470200,1556463000,2019-04-28,Hamburg/Finkenwerder,1018.15,12,Low,310,NW,11,Partly Cloudy
+observation,BKN,D,1556466600,1556459400,2019-04-28,Hamburg/Finkenwerder,1018.15,12,Low,310,NW,15,Mostly Cloudy
+observation,OVC,D,1556463000,1556455800,2019-04-28,Hamburg/Finkenwerder,1017.15,10,Low,310,NW,11,Cloudy
+observation,OVC,D,1556459400,1556452200,2019-04-28,Hamburg/Finkenwerder,1017.15,9,Low,280,W,13,Cloudy
+observation,OVC,D,1556455800,1556448600,2019-04-28,Hamburg/Finkenwerder,1017.15,9,Low,260,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556452200,1556445000,2019-04-28,Hamburg/Finkenwerder,1017.15,8,Low,270,W,15,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
+observation,OVC,D,1556450400,1556443200,2019-04-28,Hamburg/Finkenwerder,1016.16,8,Low,260,W,13,Cloudy
